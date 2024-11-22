@@ -1,0 +1,42 @@
+h1
+{
+    color: red;
+
+}
+
+body
+{
+    background-color: rgb(12, 174, 214);
+}
+
+#carte
+{
+
+	  width: 800px;
+	  margin: 0auto;
+	  text-align: center;
+	  align-content: center;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+  body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	text-align: center; 
+  }
+  
+  #carte {
+	text-align: center;
+  }
+  
+  img {
+	max-width: 50%;
+	height: auto;
+  }
